@@ -1,6 +1,8 @@
 # Dozat-Game
 
 INTRODUCTION
+
+
   The Dozat game consists of 28 cards which contain 7 numbers : 1,2,3,4,5,6 and blank.
 	In this game, the two players can play by joining the same numbered-cards.
 	And they can choose 7 cards for each and choose the 15th card as the first card to start the game.
@@ -12,10 +14,13 @@ INTRODUCTION
   
   
 SOFTWARE REQUIREMENTS
+
   *  Java Standard Edition (J2SE)
 		-Eclipse (Version: Helios Service Release 1)
 		-Jdk 1.7.0
    
 PAGE REFERENCE
+
+
   *ISCE-2002-Java eight edition 
 	*www.javaworld.com
